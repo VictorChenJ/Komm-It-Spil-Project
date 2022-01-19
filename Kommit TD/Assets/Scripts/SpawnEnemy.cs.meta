@@ -1,12 +1,11 @@
 fileFormatVersion: 2
-guid: faffed6791c2f52479e547b25809de7f
-timeCreated: 1642626675
+guid: c68d2074be97f9943b15961549401ae6
+timeCreated: 1642626629
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
-  - turretPrefab: {fileID: 1253965466762306, guid: 3d00aae931725234c811ed1a4f8f5ce2,
-      type: 2}
+  - testEnemyPrefab: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
