@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-
 public class MoveEnemy : MonoBehaviour {
 
 [HideInInspector]
@@ -19,6 +18,7 @@ public float speed = 1.0f;
 
 	}
 	
+
 	// Update is called once per frame
 	void Update () {
 		// 1 
@@ -35,6 +35,7 @@ if (gameObject.transform.position.Equals(endPosition))
   if (currentWaypoint < waypoints.Length - 2)
   {
     // 3.a 
+    print("lol");
     currentWaypoint++;
     lastWaypointSwitchTime = Time.time;
     // TODO: Rotate into move direction
@@ -50,5 +51,8 @@ if (gameObject.transform.position.Equals(endPosition))
   }
 }
 
-	}
+  }
+
+
+	
 }
