@@ -35,7 +35,6 @@ if (gameObject.transform.position.Equals(endPosition))
   if (currentWaypoint < waypoints.Length - 2)
   {
     // 3.a 
-    print("lol");
     currentWaypoint++;
     lastWaypointSwitchTime = Time.time;
     // TODO: Rotate into move direction
