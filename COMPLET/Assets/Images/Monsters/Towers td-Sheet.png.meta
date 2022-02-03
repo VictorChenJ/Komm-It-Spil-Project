@@ -1,15 +1,12 @@
 fileFormatVersion: 2
-guid: 90961f3d4bd966f41ae3a2f2df528218
-timeCreated: 1643889560
+guid: 0bd7b0402c279eb4198065bbe78693c8
+timeCreated: 1643909868
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RunnerRun-Sheet_0
-    21300002: RunnerRun-Sheet_1
-    21300004: RunnerRun-Sheet_2
-    21300006: RunnerRun-Sheet_3
-    21300008: RunnerRun-Sheet_4
-    21300010: RunnerRun-Sheet_5
+    21300000: Towers td-Sheet_0
+    21300002: Towers td-Sheet_1
+    21300004: Towers td-Sheet_2
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -81,13 +78,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RunnerRun-Sheet_0
+      name: Towers td-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 66
-        height: 34
+        width: 140
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -95,13 +92,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RunnerRun-Sheet_1
+      name: Towers td-Sheet_1
       rect:
         serializedVersion: 2
-        x: 66
+        x: 140
         y: 0
-        width: 66
-        height: 34
+        width: 140
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -109,55 +106,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RunnerRun-Sheet_2
+      name: Towers td-Sheet_2
       rect:
         serializedVersion: 2
-        x: 132
+        x: 280
         y: 0
-        width: 66
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RunnerRun-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 0
-        width: 66
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RunnerRun-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 0
-        width: 66
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RunnerRun-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 0
-        width: 66
-        height: 34
+        width: 140
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
