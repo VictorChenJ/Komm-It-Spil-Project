@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d9bf9f94de2afcf42a932dfe2ef9dc7f
+timeCreated: 1643908599
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pok?mon DP Pro
+  fontNames:
+  - Pok?mon DP Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
